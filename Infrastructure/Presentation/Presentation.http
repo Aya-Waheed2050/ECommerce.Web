@@ -1,0 +1,8 @@
+﻿@Presentation_HostAddress =  http://localhost:5121
+
+###Products
+GET {{Presentation_HostAddress}}/api/Products
+
+###Product
+@id=2
+GET {{Presentation_HostAddress}}/api/Products/{{id}}

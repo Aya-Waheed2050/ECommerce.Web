@@ -1,0 +1,87 @@
+﻿@model UpdatedProductViewModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h2 class="mb-4">Edit Product</h2>
+
+<form asp-action="Edit" method="post" enctype="multipart/form-data" class="card p-4 shadow">
+
+    <input asp-for="Id" type="hidden" />
+
+    <!-- Current Image -->
+    <div class="mb-3">
+        <label class="form-label">Current Image</label>
+        <div>
+            <img src="/@Model.PictureUrl"
+                 id="currentImage"
+                 class="img-thumbnail"
+                 style="width:150px;height:150px;object-fit:cover" />
+        </div>
+    </div>
+
+        <!-- Upload New Image -->
+    <div class="mb-3">
+        <label class="form-label">Change Image</label>
+        <input type="file" name="Image" class="form-control" id="imageInput" />
+     @*    <td>
+            <img src="/@Model.PictureUrl"
+                 class="img-thumbnail"
+                 style="width: 70px; height: 70px; object-fit: cover;" />
+        </td> *@
+    </div>
+
+
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Description" class="form-label"></label>
+        <textarea asp-for="Description" rows="3" class="form-control"></textarea>
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Price" class="form-label"></label>
+        <input asp-for="Price" class="form-control" />
+        <span asp-validation-for="Price" class="text-danger"></span>
+    </div>
+
+    <!-- Brand -->
+    <div class="mb-3">
+        <label asp-for="BrandId" class="form-label"></label>
+        <select asp-for="BrandId" asp-items="ViewBag.Brands" class="form-select">
+            <option disabled selected>Select Brand</option>
+        </select>
+        <span asp-validation-for="BrandId" class="text-danger"></span>
+    </div>
+
+    <!-- Type -->
+    <div class="mb-3">
+        <label asp-for="TypeId" class="form-label"></label>
+        <select asp-for="TypeId" asp-items="ViewBag.Types" class="form-select">
+            <option disabled selected>Select Type</option>
+        </select>
+        <span asp-validation-for="TypeId" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <button type="submit" class="btn btn-primary ">Save Changes</button>
+        <a asp-action="Index" class="btn btn-secondary">Back</a>
+    </div>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    <script>
+        document.getElementById("imageInput").addEventListener("change", function (e) {
+            const preview = document.getElementById("previewImage");
+            preview.classList.remove("d-none");
+            preview.src = URL.createObjectURL(e.target.files[0]);
+        });
+    </script>
+}

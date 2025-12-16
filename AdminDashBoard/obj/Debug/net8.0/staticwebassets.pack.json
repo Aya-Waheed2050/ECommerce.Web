@@ -1,0 +1,357 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AdminDashBoard.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AdminDashBoard.9vqrtyvy30.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\images\\products\\0aa3fe51-8133-4d92-9b37-5f34d0daf718_HaluskiNoo.png",
+      "PackagePath": "staticwebassets\\images\\products\\0aa3fe51-8133-4d92-9b37-5f34d0daf718_HaluskiNoo.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\images\\products\\0f4d4836-897c-4754-af2e-e5547b2c79ba_PastaSalad.png",
+      "PackagePath": "staticwebassets\\images\\products\\0f4d4836-897c-4754-af2e-e5547b2c79ba_PastaSalad.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\images\\products\\118b37da-8b98-4799-9134-f7dba2c1a7f2_TandooriCh.png",
+      "PackagePath": "staticwebassets\\images\\products\\118b37da-8b98-4799-9134-f7dba2c1a7f2_TandooriCh.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\images\\products\\1c5e0166-2c5b-484c-8894-db15f23fbc6f_Congee.png.png",
+      "PackagePath": "staticwebassets\\images\\products\\1c5e0166-2c5b-484c-8894-db15f23fbc6f_Congee.png.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\images\\products\\1f7114c0-1d1f-49fd-a8fc-1a0a3b13c4ca_ShrimpEggF.png",
+      "PackagePath": "staticwebassets\\images\\products\\1f7114c0-1d1f-49fd-a8fc-1a0a3b13c4ca_ShrimpEggF.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\images\\products\\230270c4-9e74-445c-82ff-464263c932f7_Kulfi.png.png",
+      "PackagePath": "staticwebassets\\images\\products\\230270c4-9e74-445c-82ff-464263c932f7_Kulfi.png.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\images\\products\\4ae2d41a-6514-4dac-b58d-830e86d7a215_CrispyVege.png",
+      "PackagePath": "staticwebassets\\images\\products\\4ae2d41a-6514-4dac-b58d-830e86d7a215_CrispyVege.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\images\\products\\5e89a40f-6b13-4a2b-89b9-5128c0fc90a3_ItalianChi.png",
+      "PackagePath": "staticwebassets\\images\\products\\5e89a40f-6b13-4a2b-89b9-5128c0fc90a3_ItalianChi.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\images\\products\\64a5fb23-bf42-4aee-a27e-50f3627ad9c9_HeartyVege.png",
+      "PackagePath": "staticwebassets\\images\\products\\64a5fb23-bf42-4aee-a27e-50f3627ad9c9_HeartyVege.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\images\\products\\679453e0-5f95-49d1-b821-cdcbe6eb95d2_Vegetarian.png",
+      "PackagePath": "staticwebassets\\images\\products\\679453e0-5f95-49d1-b821-cdcbe6eb95d2_Vegetarian.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\images\\products\\75f8ba6f-46d3-4b97-ad7e-aa76370f6175_ChickenTer.png",
+      "PackagePath": "staticwebassets\\images\\products\\75f8ba6f-46d3-4b97-ad7e-aa76370f6175_ChickenTer.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\images\\products\\8196b131-ffe8-4976-bc91-dc491dd336ea_Vegetarian.png",
+      "PackagePath": "staticwebassets\\images\\products\\8196b131-ffe8-4976-bc91-dc491dd336ea_Vegetarian.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\images\\products\\833443e6-8269-4991-aebb-3d96d0d39dc1_CheesyVege.png",
+      "PackagePath": "staticwebassets\\images\\products\\833443e6-8269-4991-aebb-3d96d0d39dc1_CheesyVege.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\images\\products\\acd5bab4-f3f5-4e1f-8c4f-1cdca6045da3_CreamyGoch.png",
+      "PackagePath": "staticwebassets\\images\\products\\acd5bab4-f3f5-4e1f-8c4f-1cdca6045da3_CreamyGoch.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\images\\products\\b5532c57-e168-4a2a-a844-c9942867c035_ChickenMar.png",
+      "PackagePath": "staticwebassets\\images\\products\\b5532c57-e168-4a2a-a844-c9942867c035_ChickenMar.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\images\\products\\b72b8a8b-960f-4d7a-bbad-fb23937d8eab_ItalianWed.png",
+      "PackagePath": "staticwebassets\\images\\products\\b72b8a8b-960f-4d7a-bbad-fb23937d8eab_ItalianWed.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\images\\products\\dc23f15c-b4ee-46f9-9546-1a6b1e398d56_ChickenTik.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\dc23f15c-b4ee-46f9-9546-1a6b1e398d56_ChickenTik.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\images\\products\\e115ffb7-5cf8-4764-ac86-c962095e4742_Pancakes.j.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\e115ffb7-5cf8-4764-ac86-c962095e4742_Pancakes.j.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\images\\products\\ed14895a-e56b-45fc-8101-680fdd4490e4_PepperPast.png",
+      "PackagePath": "staticwebassets\\images\\products\\ed14895a-e56b-45fc-8101-680fdd4490e4_PepperPast.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\js\\datatables-simple-demo.js",
+      "PackagePath": "staticwebassets\\js\\datatables-simple-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\E_Commerce_Backup\\AdminDashBoard\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AdminDashBoard.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AdminDashBoard.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AdminDashBoard.props",
+      "PackagePath": "build\\AdminDashBoard.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AdminDashBoard.props",
+      "PackagePath": "buildMultiTargeting\\AdminDashBoard.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AdminDashBoard.props",
+      "PackagePath": "buildTransitive\\AdminDashBoard.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
